@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+   
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+  
+    
+}
+.secound a{
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+    
+}
+span{
+    color:aquamarine;
+}
+.show{
+    box-shadow: 6px -10px 10px 10px gray;
+    padding: 15px;
+}
+
+
+
+
+.cont{
+    margin-top: 20px;
+    background-color: antiquewhite;
+    
+}
+
+.coun-main{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+
+.all{
+    margin-top: 20px;
+    display: flex;
+    gap:30px;
+}
+
+
+.image-1{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.image-1 img{
+    width: 30%;
+    
+}
